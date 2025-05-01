@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Author: Radu Cimpeanu
+# Date: 24/10/2024
+
+# Additional resolution levels, drop radii or velocities can be added below
+
 for LEVEL in 12; do
 	for RADIUS in 0.00021; do
 		for VELOCITY in 0.481913; do
