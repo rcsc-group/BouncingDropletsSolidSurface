@@ -1,5 +1,5 @@
 # Bouncing droplets onto a solid substrate
-Direct numerical simulation code infrastructure for drop impact onto solid substrates in the inertio-capillary regime, supporting collaborative work with the Harris Lab at Brown. It represents the sister implementation to the impact onto liquid substrate scenario which can be found under the [BouncingDroplets](https://github.com/rcsc-group/BouncingDroplets/) repository. The code complements the associated preprint which can be found at [arXiv:2505.00902](https://arxiv.org/abs/2505.00902).
+Direct numerical simulation code infrastructure for drop impact onto solid substrates in the inertio-capillary regime, supporting collaborative work with the Harris Lab at Brown. It represents the sister implementation to the impact onto liquid substrate scenario which can be found under the [BouncingDroplets](https://github.com/rcsc-group/BouncingDroplets/) repository. The code complements the manuscript available at https://doi.org/10.1017/jfm.2025.10589 and the associated preprint which can be found at [arXiv:2505.00902](https://arxiv.org/abs/2505.00902).
 
 ## Installation
 * The code relies on [Basilisk](<http://basilisk.fr/>) to model the Navier-Stokes equations. See the [installation page](<http://basilisk.fr/src/INSTALL>) for instructions. 
